@@ -1,0 +1,69 @@
+[33mcommit 70c1d9f043e1d75ae7ee41df815dc320561f4bc2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mannulation[m[33m)[m
+Author: adamkhairi <57996941+adamkhairi@users.noreply.github.com>
+Date:   Sun Dec 1 00:10:31 2019 +0100
+
+    Rename 404.html to error404.html
+
+[33mcommit d29e3475f2d46ae35385d9cf9028a5a4e4847768[m
+Author: adamkhairi <57996941+adamkhairi@users.noreply.github.com>
+Date:   Sat Nov 30 23:57:16 2019 +0100
+
+    add H1
+
+[33mcommit 9a6fa780f645dd2f5f1da4fbb37ef285a873e1a9[m
+Merge: bff59e1 d654e3c
+Author: adamkhairi <57996941+adamkhairi@users.noreply.github.com>
+Date:   Sat Nov 30 23:49:50 2019 +0100
+
+    Merge pull request #1 from adamkhairi/add-license-1
+    
+    Create LICENSE.txt
+
+[33mcommit bff59e13e6433f5ca69a36daba473dc52d5c6c07[m
+Author: Majda FANNAN <57941607+DEVmajdaF@users.noreply.github.com>
+Date:   Fri Nov 29 11:05:14 2019 +0100
+
+    Create Style.css
+
+[33mcommit 4a29a9dc9330f8447fcb154b61590ff304ea208f[m
+Merge: 5795658 33535a8
+Author: majda FANNAN <fannanmajda123@gmail.com>
+Date:   Wed Nov 27 21:26:40 2019 +0100
+
+    Message1 Merge branch 'master' of https://github.com/DEVmajdaF/Monsiteweb
+
+[33mcommit 57956585e7f1d0cfc5b0597b967a5d583cfeffa5[m
+Author: majda FANNAN <fannanmajda123@gmail.com>
+Date:   Wed Nov 27 21:13:21 2019 +0100
+
+    editing Readme.md
+
+[33mcommit 33535a8be87b1e2119084c70976bbbfafe4e8415[m
+Author: Majda FANNAN <57941607+DEVmajdaF@users.noreply.github.com>
+Date:   Wed Nov 27 21:09:17 2019 +0100
+
+    Update title
+
+[33mcommit ff069e07f42a3ab0723177bbce800ab49235f49e[m
+Author: majda FANNAN <fannanmajda123@gmail.com>
+Date:   Wed Nov 27 21:00:15 2019 +0100
+
+     copy intializr
+
+[33mcommit d654e3c01d5ce682294d7401bb0a2a3a1e228f0e[m[33m ([m[1;31morigin/add-license-1[m[33m)[m
+Author: Majda FANNAN <57941607+DEVmajdaF@users.noreply.github.com>
+Date:   Wed Nov 27 16:46:20 2019 +0100
+
+    Create LICENSE.txt
+
+[33mcommit 9f635748a0a07b0a1fbc0879c4caefd1399b5b74[m
+Author: Majda FANNAN <57941607+DEVmajdaF@users.noreply.github.com>
+Date:   Wed Nov 27 16:41:26 2019 +0100
+
+    Create .gitignore
+
+[33mcommit 687558cad1f077ce4667922951a4b7350b6170b6[m
+Author: Majda FANNAN <57941607+DEVmajdaF@users.noreply.github.com>
+Date:   Wed Nov 27 16:39:50 2019 +0100
+
+    Initial commit
